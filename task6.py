@@ -6,4 +6,4 @@ John earns $6 per hour
 ```
 """
 wage = 6
-print(f"John earns ${wage} dollars")
+print(f"John earns ${wage} per hour")
